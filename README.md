@@ -27,3 +27,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#
+https://nklayman.github.io/vue-cli-plugin-electron-builder/
