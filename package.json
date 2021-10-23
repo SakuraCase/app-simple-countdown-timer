@@ -14,8 +14,9 @@
   },
   "main": "background.js",
   "dependencies": {
+    "@chenfengyuan/vue-countdown": "^2.0.0-rc",
     "core-js": "^3.6.5",
-    "vue": "^3.0.0",
+    "vue": "^3.2.20",
     "vue-class-component": "^8.0.0-0"
   },
   "devDependencies": {

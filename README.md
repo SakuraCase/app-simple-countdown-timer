@@ -1,32 +1,7 @@
 # simple-countdown-timer
+- https://nklayman.github.io/vue-cli-plugin-electron-builder/
+- https://github.com/fengyuanchen/vue-countdown
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-#
-https://nklayman.github.io/vue-cli-plugin-electron-builder/
+## sound
+- https://soundeffect-lab.info/
+- https://base64.guru/converter/encode/audio/mp3

@@ -908,6 +908,11 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
+"@chenfengyuan/vue-countdown@^2.0.0-rc":
+  version "2.0.0-rc"
+  resolved "https://registry.yarnpkg.com/@chenfengyuan/vue-countdown/-/vue-countdown-2.0.0-rc.tgz#548a219df17924fbbc9bbef045a59d1c8a7f8b3c"
+  integrity sha512-LfSA54cfYKR325pGZOtf35YJHdfhBUOi2Bl3CAQdJR8ax5uIMAastevVpWpKGa11gm23iB6FlpilxH4J87XzOQ==
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.npm.taobao.org/@cnakazawa/watch/download/@cnakazawa/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
@@ -12385,10 +12390,10 @@ vue-template-es2015-compiler@^1.6.0, vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^3.0.0:
+vue@^3.2.20:
   version "3.2.20"
-  resolved "https://registry.npmmirror.com/vue/download/vue-3.2.20.tgz?cache=0&sync_timestamp=1633712555314&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fvue%2Fdownload%2Fvue-3.2.20.tgz#940f8aa8bf3e3be78243ca582bad41fcd45ae3e6"
-  integrity sha1-lA+KqL8+O+eCQ8pYK61B/NRa4+Y=
+  resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.20.tgz#940f8aa8bf3e3be78243ca582bad41fcd45ae3e6"
+  integrity sha512-81JjEP4OGk9oO8+CU0h2nFPGgJBm9mNa3kdCX2k6FuRdrWrC+CNe+tOnuIeTg8EWwQuI+wwdra5Q7vSzp7p4Iw==
   dependencies:
     "@vue/compiler-dom" "3.2.20"
     "@vue/compiler-sfc" "3.2.20"
